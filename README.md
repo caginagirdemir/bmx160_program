@@ -1,4 +1,9 @@
 # Bmx160 Program
 
-<img src="./img/before.png" width="250" height="250" />
-<img src="./img/after.png" width="250" height="250" />
+Effect of core dedicating
+
+Before
+<img src="./img/before.png" width="280" height="250" />
+
+After
+<img src="./img/after.png" width="280" height="250" />
